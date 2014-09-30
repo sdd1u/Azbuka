@@ -1,5 +1,7 @@
 Azbuka
 ======
+Version 1.3.1.8
+
 Version 1.3.1.7
 
 Version 1.3.1.6
